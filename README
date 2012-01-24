@@ -1,0 +1,5 @@
+These are first quick scripts to get data from api sunini nodes, insert them into a GIS enabled (postgis) postgreql database.
+
+Also there's a script using some old php stuff (so only using v.2 of google maps api) that makes a rough google map from the database.
+
+Much still todo!
